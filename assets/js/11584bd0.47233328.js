@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkyasai_web=globalThis.webpackChunkyasai_web||[]).push([[9796],{3791:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/Maker-Blog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

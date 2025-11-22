@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkyasai_web=globalThis.webpackChunkyasai_web||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/Maker-Blog/blog","blogTitle":"Blog","authorsListPath":"/Maker-Blog/blog/authors"}')}}]);
